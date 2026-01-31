@@ -1,0 +1,7 @@
+default: mesh_provisioner
+build_dir: C:/ncs/v3.0.1/zephyr/samples/bluetooth/mesh_provisioner/build
+domains:
+  - name: mesh_provisioner
+    build_dir: C:/ncs/v3.0.1/zephyr/samples/bluetooth/mesh_provisioner/build/mesh_provisioner
+flash_order:
+  - mesh_provisioner

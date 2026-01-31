@@ -1,0 +1,8 @@
+build/
+.vscode/
+*.ninja
+*.obj
+*.o
+*.hex
+*.elf
+*.map
